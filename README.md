@@ -1,7 +1,6 @@
 # 4501_final_project
  
-Problem Overview
-
+## Problem Overview
 
 Let’s say your apartment lease is ending at the end of the year, and you need to find a new apartment. There are a lot of criteria you can use to help find a neighborhood you’d like to live in. One thing you care a lot about is a quiet neighborhood with a lot of greenery. 
 
