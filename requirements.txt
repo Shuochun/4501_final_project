@@ -1,0 +1,12 @@
+geoalchemy2==0.14.2
+geopandas==0.14.1
+matplotlib==3.7.1
+pandas==2.1.2
+numpy==1.26.1
+requests==2.31.0
+shapely==2.0.2
+sqlalchemy==1.4.39
+seaborn==0.12.2
+json==5.4.0
+pathlib==1.0.1
+urllib==1.26.16
